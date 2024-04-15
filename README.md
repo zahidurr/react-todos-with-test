@@ -1,5 +1,11 @@
 # React Todo List :technologist:
 
+## Completed tasks :pencil:
+
+- Task 1 :white_check_mark:
+- Task 2 :white_check_mark:
+- Task 3 including tests :white_check_mark: :white_check_mark:
+
 ## Prerequisites :package:
 
 To complete this assignment on your machine you need the following installed:
