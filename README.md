@@ -1,4 +1,4 @@
-# Frontend assignment :technologist:
+# React Todo List :technologist:
 
 ## Prerequisites :package:
 
