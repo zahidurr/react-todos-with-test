@@ -9,9 +9,7 @@ const Intro: FunctionComponent = () => {
     <div style={{ textAlign: "left"}}>
       <h1>Welcome</h1>
       <p>
-        If you are reading this, you are most likely starting an application
-        process at Uniwise. In this assignment you will have the opportunity to
-        show your skills as well as challenge your competencies.
+        React Todo
       </p>
       <h2>Intro</h2>
       <p>
